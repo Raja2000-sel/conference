@@ -1,13 +1,4 @@
-/**
-* Template Name: Vlava - v4.0.1
-* Template URL: https://bootstrapmade.com/vlava-free-bootstrap-one-page-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
@@ -493,6 +484,7 @@ section {
 
 .services .service-box h3 {
   color: #444444;
+  font-size:medium;
   font-weight: 700;
 }
 
